@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy Magic Override Controller
+  m_Controller: {fileID: 9100000, guid: 89fc9cfa7daedfb4493089b3dc5fa39e, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 5420517045014120221, guid: d3d109f6e6d4f1844b93417b1f3c1a89, type: 3}
+    m_OverrideClip: {fileID: -6505363248513697278, guid: 46103a2295b59a140aeb1cf194e5f463, type: 3}
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: d3d109f6e6d4f1844b93417b1f3c1a89, type: 3}
+    m_OverrideClip: {fileID: -3100369314251171874, guid: 46103a2295b59a140aeb1cf194e5f463, type: 3}
+  - m_OriginalClip: {fileID: 3174661419259135242, guid: d3d109f6e6d4f1844b93417b1f3c1a89, type: 3}
+    m_OverrideClip: {fileID: 455867200774271528, guid: 46103a2295b59a140aeb1cf194e5f463, type: 3}
+  - m_OriginalClip: {fileID: 3543698089625107784, guid: d3d109f6e6d4f1844b93417b1f3c1a89, type: 3}
+    m_OverrideClip: {fileID: -7800337380646078255, guid: 46103a2295b59a140aeb1cf194e5f463, type: 3}
